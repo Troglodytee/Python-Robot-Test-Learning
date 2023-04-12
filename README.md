@@ -14,8 +14,8 @@ This is a program that train robots to find the best path to get points.
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python random library
+- Python `tkinter` library
+- Python `random` library
 ## Usage
 You can create a map using the `LEFT` mouse button and to set the cells values you have to use to potentiometer.
 
